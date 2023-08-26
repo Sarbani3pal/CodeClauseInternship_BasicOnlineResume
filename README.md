@@ -26,16 +26,25 @@ ResumeFolio  is a dynamic web application that simplifies the process of creatin
 
 - Main Page
   
-  ![1]()
-  ![2]()
-  ![3]()
+  ![1](![cc t2 s8](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/61099b88-ab86-40e9-9b8a-58da26de48a5))
+)
+  ![2] ![cc t2 s7](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/6e21e787-c126-421d-b9c0-a63215078ca5)
+
+  ![3]()![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/52043ed5-d130-462c-a7a8-d5042bf2109b)
+![cc t2 s6](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/a9b69767-a298-4b69-a79f-cffc538de36a)
+
 
 - Create My Resume
   
-  ![4]()
-  ![5]()
-  ![6]()
-  ![7]()
+  ![4]()![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/66def59b-18d2-4b18-9a6e-aa6d138bbc70))
+
+  ![5]()![cc t2 s2](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/f13427ef-df7b-4093-ae07-f1c3a678fbc9))
+
+  ![6]()![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/c0a927a5-a006-4fae-ab45-774136f3f97d))
+
+  ![7](![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ee2314c4-19b6-429d-beba-3aa4855e1edf))
+
+
 
 - Change Colour of the Resume
 
