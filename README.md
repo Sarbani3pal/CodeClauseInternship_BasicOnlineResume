@@ -1,4 +1,4 @@
-![Screenshot (123)](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/389fed1c-3634-4322-a934-5c500b750dcb)# ResumeFolio
+# ResumeFolio
 <p align="center">
   Welcome to ResumeFolio - Your Modern Resume Building Solution!
   <br>
@@ -26,38 +26,38 @@ ResumeFolio  is a dynamic web application that simplifies the process of creatin
 
 - Main Page
   
-##1 ![cc t2 s8](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/61099b88-ab86-40e9-9b8a-58da26de48a5)
-  ##[2] ![cc t2 s9](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ff14168f-c134-4be7-afcb-34e1d65d92f1)
+[1] ![cc t2 s8](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/61099b88-ab86-40e9-9b8a-58da26de48a5)
+[2] ![cc t2 s9](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ff14168f-c134-4be7-afcb-34e1d65d92f1)
 
-  ##[3]![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/52043ed5-d130-462c-a7a8-d5042bf2109b)
+[3]![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/52043ed5-d130-462c-a7a8-d5042bf2109b)
 
 
 - Create My Resume
-  
-  ##[4]![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/66def59b-18d2-4b18-9a6e-aa6d138bbc70)
 
-  ##[5] ![cc t2 s2](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/f13427ef-df7b-4093-ae07-f1c3a678fbc9))
+[4]![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/66def59b-18d2-4b18-9a6e-aa6d138bbc70)
 
-  ##[6]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/c0a927a5-a006-4fae-ab45-774136f3f97d))
+[5] ![cc t2 s2](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/f13427ef-df7b-4093-ae07-f1c3a678fbc9))
 
-  ##[7]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ee2314c4-19b6-429d-beba-3aa4855e1edf)
+[6]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/c0a927a5-a006-4fae-ab45-774136f3f97d))
+
+[7]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ee2314c4-19b6-429d-beba-3aa4855e1edf)
 
 
 
 - Change Colour of the Resume
 
-  ##[8]![cc s11](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/7a61a176-df61-47ad-9209-5782a32a716f)
+[8]![cc s11](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/7a61a176-df61-47ad-9209-5782a32a716f)
 
-  ##[9]![cc s12](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/b2ccdc20-dfa1-4e8d-93b0-d8f30ef11f29)
+[9]![cc s12](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/b2ccdc20-dfa1-4e8d-93b0-d8f30ef11f29)
 
-  ##[10]![cc s13](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/69fabf5b-86b5-4203-86c7-28dcfb91e6d6)
+[10]![cc s13](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/69fabf5b-86b5-4203-86c7-28dcfb91e6d6)
 
 
 - Print Resume
 
-  ##[11]![Screenshot (123)](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/d968063c-27a7-45d7-9dfa-76b43e27b3c9)
+[11]![Screenshot (123)](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/d968063c-27a7-45d7-9dfa-76b43e27b3c9)
 
-  ##[12]![Screenshot (100)](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ca725b85-fa99-4fd3-a335-4806c82f6e87)
+[12]![Screenshot (100)](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ca725b85-fa99-4fd3-a335-4806c82f6e87)
 
 
 
