@@ -36,9 +36,9 @@ ResumeFolio  is a dynamic web application that simplifies the process of creatin
 
 [4]![cc t2 s5](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/66def59b-18d2-4b18-9a6e-aa6d138bbc70)
 
-[5] ![cc t2 s2](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/f13427ef-df7b-4093-ae07-f1c3a678fbc9))
+[5] ![cc t2 s2](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/f13427ef-df7b-4093-ae07-f1c3a678fbc9)
 
-[6]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/c0a927a5-a006-4fae-ab45-774136f3f97d))
+[6]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/c0a927a5-a006-4fae-ab45-774136f3f97d)
 
 [7]![cc t2 s4](https://github.com/Sarbani3pal/CodeClauseInternship_BasicOnlineResume/assets/106859451/ee2314c4-19b6-429d-beba-3aa4855e1edf)
 
